@@ -1,0 +1,50 @@
+body {
+  background-image: url(wallpaper.jpg);
+  background-size: cover;
+}
+
+#main {
+  background-image: url(download.jpg);
+  background-size: cover;
+}
+
+.login_div1,
+.login_div2 {
+  background-image: url(download.jpg);
+  padding: 10px;
+  float: none;
+  border-radius: 15px;
+  background-size: cover;
+}
+
+#player1_name,
+#player2_name {
+  display: inline-block;
+  margin-left: 20px;
+}
+#word {
+  width: 60%;
+}
+#word_display {
+  letter-spacing: 5px;
+}
+#output {
+  background: white;
+  border-radius: 10px;
+  border-top: 10px solid #aa4465;
+  padding: 10px;
+  float: none;
+  text-align: left;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+label {
+  color: white;
+}
